@@ -1,0 +1,12 @@
+{
+  "name": "BookList2",
+  "displayName": "BookList2",
+  "expo": {
+    "name": "BookList2",
+    "slug": "BookList2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
